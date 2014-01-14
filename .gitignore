@@ -11,3 +11,5 @@ newsupload/*
 rsscache/*
 tiny4cocoa/rsscache/*
 uploadtemp/*
+*.sublime-project
+*.sublime-workspace
